@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: brown;
+    text-align: center;
+    margin: auto;
+}
+
+table{
+    margin: auto;
+    border: black solid;
+}
+
+img{
+    margin: auto;
+    width: 400px;
+}
