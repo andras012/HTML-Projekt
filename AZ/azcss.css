@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+	color: red;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    margin: auto;
+}
+
+table{
+    margin-left: 50px;
+    border: none;
+}
+
+img{
+    margin: auto;
+    width: 400px;
+}
+
+div {
+	background-color: red;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+a {
+	margin-left: 1000px;
+}
+	
